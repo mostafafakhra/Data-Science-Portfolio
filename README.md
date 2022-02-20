@@ -9,4 +9,4 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 ###  [Project 1: Clustering Kmeans using Python For Movies Dataset](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Clustering/Clustering-Kmeans-using-Python-For-Movies-Dataset/Movies%20Dataset.ipynb)
 ![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Clustering/Clustering-Kmeans-using-Python-For-Movies-Dataset/1.png)
 * Used movies data from Kaggle
-* **Keywords**(Clustering, Kmeans, Movies Dataset, unsupervised learning)
+* **Keywords**( Clustering, Kmeans, Movies Dataset, unsupervised learning)
