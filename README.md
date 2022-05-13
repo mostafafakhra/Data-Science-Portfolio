@@ -21,7 +21,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 ---
 
 ###  [Project 3: Laptop Prices Predictor](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Laptop%20Prices%20Predictor/Laptop%20Price%20Predictor.ipynb)
-![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Laptop%20Prices%20Predictor/Web-Application-for-Prediction.jpg])
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Laptop%20Prices%20Predictor/1.jpg)
 * Used Laptop Data from Kaggle
 * **Keywords** (Data Analysis, Data Cleansing, Laptop Prices Dataset)
 
