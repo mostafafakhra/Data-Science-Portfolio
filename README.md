@@ -26,3 +26,10 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 * **Keywords** (Data Analysis, Data Cleansing, Laptop Prices Dataset)
 
 ---
+
+###  [Project 4: Bird Species Prediction](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Bird%20Species%20Prediction/Bird_Species_Prediction.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Bird%20Species%20Prediction/Screenshot%202022-05-27%20191051.jpg)
+* Used Google Drive Data from Kaggle
+* **Keywords** (CNN, Deep Learning, Birds Species Dataset)
+
+---
