@@ -33,3 +33,10 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 * **Keywords** (CNN, Deep Learning, Birds Species Dataset)
 
 ---
+
+###  [Project 5: Plants Diseases Prediction](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Plant%20Diseases%20Prediction/Plant_Diseases_Prediction_using_CNN.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Plant%20Diseases%20Prediction/Plants%20Sample%20Image.jpg)
+* Used Google Drive Data from Kaggle
+* **Keywords** (CNN, Deep Learning, Plants Diseases Dataset)
+
+---
