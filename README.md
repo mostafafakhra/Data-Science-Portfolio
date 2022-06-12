@@ -16,7 +16,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 ###  [Project 2: Bank Campaigns Data Analysis For Bank Dataset](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Data%20Analysis/Bank%20Campaigns/Bank%20Campaigns%20Data%20Analysis.ipynb)
 ![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Data%20Analysis/Bank%20Campaigns/1.jpg)
 * Used Bank data from Kaggle
-* **Keywords** (Data Analysis, Statistics, Bank Dataset)
+* **Keywords** (Data Analysis, Statistics, Bank Dataset, Data Exploratory)
 
 ---
 
