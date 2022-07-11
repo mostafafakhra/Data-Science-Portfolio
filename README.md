@@ -43,7 +43,14 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 
 ###  [Project 6: Google Stock Price Prediction using RNN LTSM](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Google%20Stock%20Price%20Prediction%20using%20RNN%20LTSM/Google_Stock_Price_Prediction_using_RNN.ipynb)
 ![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Google%20Stock%20Price%20Prediction%20using%20RNN%20LTSM/Screenshot%202022-06-27%20054208.jpg)
-* Used Google Drive Data from Google Stock
-* **Keywords** (RNN, Deep Learning, LTSM, Google Stock Dataset)
+* Used Data from Google Stock
+* **Keywords** (RNN, Deep Learning, LTSM, Google Stock Dataset 2017 to 2021)
+
+---
+
+###  [Project 7: Google Stock Price Prediction using RNN LTSM V2](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Google_Stock_Price_Prediction_using_RNN_LTSM_V2/Google_Stock_Price_Prediction_using_RNN_LTSM_V2.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Google_Stock_Price_Prediction_using_RNN_LTSM_V2/Screenshot%202022-07-11%20073646.jpg)
+* Used Data from Google Stock
+* **Keywords** (RNN, Deep Learning, LTSM, Google Stock Dataset 2005 to 2021)
 
 ---
