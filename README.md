@@ -75,3 +75,11 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 * **Keywords** (RNN, Deep Learning, LTSM, Tesla Stock Dataset 2010 to 2017)
 
 ---
+
+###  [Project 11: Covid-19 Lungs X-Rays Prediction using CNN for Binary Classification](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Covid-19%20Lungs%20X-Rays%20Prediction%20using%20CNN%20for%20Binary%20Classification/Covid_19_Lungs_X_Rays_Prediction_using_CNN_for_Binary_Classification.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Covid-19%20Lungs%20X-Rays%20Prediction%20using%20CNN%20for%20Binary%20Classification/Screenshot%202022-08-17%20064255.jpg)
+* Used Data from Kaggle
+* **Keywords** (CNN, Deep Learning, Covid-19, Binary Classification)
+
+---
+
