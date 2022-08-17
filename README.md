@@ -68,3 +68,10 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 * **Keywords** (Linear Regression, Random Forest Regression)
 
 ---
+
+###  [Project 10: Tesla Stock Price Prediction](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Tesla%20Stock%20Price%20Prediction/Tesla_Stock_Price_Prediction.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Tesla%20Stock%20Price%20Prediction/Screenshot%202022-08-17%20063650.jpg)
+* Used Data from Tesla Stock
+* **Keywords** (RNN, Deep Learning, LTSM, Tesla Stock Dataset 2010 to 2017)
+
+---
