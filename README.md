@@ -58,6 +58,13 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 ###  [Project 8: Predicting Salary of Adults with ML](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Predicting%20Salary%20of%20Adults%20with%20ML/Predicting%20Salary%20of%20Adults%20with%20ML.ipynb)
 ![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Predicting%20Salary%20of%20Adults%20with%20ML/1_VK1P0hRUybzuBUBm852pfA.png)
 * Used Data from Kaggle
-* **Keywords** (Logistic Regression, Random Forest Regression, Naive Bayes Regression, Cross Validation)
+* **Keywords** (Logistic Regression, Random Forest, Naive Bayes, Cross Validation)
+
+---
+
+###  [Project 9: House Price Prediction](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/House%20Price%20Prediction/House%20Price%20Prediction.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/House%20Price%20Prediction/1_D6s2K1y7kjE14swcgITB1w.png)
+* Used Data from Kaggle
+* **Keywords** (Linear Regression, Random Forest Regression)
 
 ---
