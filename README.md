@@ -54,3 +54,10 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 * **Keywords** (RNN, Deep Learning, LTSM, Google Stock Dataset 2005 to 2021)
 
 ---
+
+###  [Project 8: Predicting Salary of Adults with ML](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Predicting%20Salary%20of%20Adults%20with%20ML/Predicting%20Salary%20of%20Adults%20with%20ML.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Predicting%20Salary%20of%20Adults%20with%20ML/1_VK1P0hRUybzuBUBm852pfA.png)
+* Used Data from Kaggle
+* **Keywords** (Logistic Regression, Random Forest Regression, Naive Bayes Regression, Cross Validation)
+
+---
