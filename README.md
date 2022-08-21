@@ -83,3 +83,9 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 
 ---
 
+###  [Project 12: Analysis of Uber Data](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Analysis%20of%20Uber%20Data/Analysis%20of%20Uber%20Data.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Analysis%20of%20Uber%20Data/Screenshot%202022-08-22%20004007.jpg)
+* Used Data from Kaggle
+* **Keywords** (Data Analysis, Uber Data, Data Exploratory)
+
+---
