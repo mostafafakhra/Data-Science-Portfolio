@@ -104,3 +104,11 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 
 
 ---
+
+###  [Project 15: Medical Insurance Premiums Prediction](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Medical%20Insurance%20Premium%20Prediction/Medical%20Insurance%20Premium%20Prediction.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Medical%20Insurance%20Premium%20Prediction/0_ssbGU5VIxtVB6NrF.jpg)
+* Used Data from Kaggle
+* **Keywords** (Regression, Medical Insurance Premiums Prediction)
+
+
+---
