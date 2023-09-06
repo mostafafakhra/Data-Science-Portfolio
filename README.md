@@ -96,3 +96,11 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 * **Keywords** (Random Forest Classification, Credit Card Data)
 
 ---
+
+###  [Project 14: House Price Prediction Using ANNs](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/House%20Prices%20Prediction%20Using%20ANNs/House_Prices_Prediction_Using_ANNs.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/House%20Price%20Prediction/1_D6s2K1y7kjE14swcgITB1w.png)
+* Used Data from Kaggle
+* **Keywords** (ANN, Artificial neural network)
+
+
+---
