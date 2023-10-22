@@ -112,3 +112,11 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 
 
 ---
+
+###  [Project 16: Customers Segmentation](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Customers%20Segmentation/Customer%20Segmentation.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Customers%20Segmentation/Customer-Segmentation.png)
+* Used Data from Kaggle
+* **Keywords** (Clustering, KMeans, Customers Segmentation)
+
+
+---
