@@ -120,3 +120,12 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 
 
 ---
+
+
+###  [Project 17: Used Car Price Prediction](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Used%20Car%20Price%20Prediction/Used%20Car%20Price%20Prediction.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Used%20Car%20Price%20Prediction/Used%20Car%20Price%20Prediction.png)
+* Used Cars Data from Kaggle
+* **Keywords** (Random Forest Regressor, Hyperparameter Tuning, Used Car Price Prediction)
+
+
+---
