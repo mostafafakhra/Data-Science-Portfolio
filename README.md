@@ -91,7 +91,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 ---
 
 ###  [Project 13: Credit Card Fraud Detection](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Credit%20Card%20Fraud%20Detection/Credit%20Card%20Fraud%20Detection.ipynb)
-![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Credit%20Card%20Fraud%20Detection/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324661692d6a6f75726e65792e636f6d25324677702d636f6e74656e7425324675706c6f6164732532463230313925324630.jpg)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Credit%20Card%20Fraud%20Detection/CreditCardFraud.jpg)
 * Used Data from Kaggle
 * **Keywords** (Random Forest Classification, Credit Card Data)
 
