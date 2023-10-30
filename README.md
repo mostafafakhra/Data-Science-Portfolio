@@ -129,3 +129,12 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/mostafafakhra) if yo
 
 
 ---
+
+
+###  [Project 18: Restaurant Reviews Classification](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Restaurant%20Reviews%20Classification/Restaurant%20Reviews%20Classification.ipynb)
+![image](https://github.com/mostafafakhra/Data-Science-Portfolio-Using-Python/blob/main/Restaurant%20Reviews%20Classification/345346.jpg)
+* Used Cars Data from Kaggle
+* **Keywords** (NLP, XGBoost Classifier, Restaurant Reviews)
+
+
+---
